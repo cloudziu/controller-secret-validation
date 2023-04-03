@@ -1,4 +1,5 @@
-# Kubernetes secret validation webhook build with controller-runtime
+# Controller validation webhook 
+Kubernetes secret validation controller, created with sigs.k8s.io/controller-runtime package.
 
 README: WIP
 
